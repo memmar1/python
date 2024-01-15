@@ -8,3 +8,5 @@ def sum(a,b):
 sum (43,8)
 
 print ("Emmar")
+
+print ("hi")
