@@ -2,6 +2,7 @@ import random
 
 options = ("rock", "paper", "scissors")
 
+# ROCK, PAPER, SCISSORS WEEK ONE CHALLENGE
 while True:
     
     print("")
